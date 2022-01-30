@@ -8,3 +8,5 @@ Pick Twisted Fate's cards with precision using voice control.
 * Blue Card - "magic blue"
 * Red Card = "magic red"
 * Yellow Card = "magic yellow"
+
+Requires HotVoice and its dependencies: https://github.com/evilC/HotVoice
